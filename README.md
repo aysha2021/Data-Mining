@@ -1,0 +1,3 @@
+# Data-Mining
+In the pandemic era, the use of social media and twitter has become increasingly widespread. This study was motivated primarily by the impact of the COVID-19 pandemic on social sentiments, mainly by the tweets and comments of prominent people in society and their reaction to tweets.
+My goal is to try to quantify and interpret early changes in Twitter activity, content, and sentiment about the COVID-19 epidemic, as well as to extract all the hidden information related to each tweet from a specific time period. After that, we must refine the tweets, which is a critical step, so this research paper is attempting to find the most appropriate method for extracting or refining tweets.
